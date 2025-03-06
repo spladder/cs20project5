@@ -12,7 +12,7 @@
 $(document).ready(function() {
             $("#products").click(function() {
                 $.get("https://spladder.github.io/cs20project5/products.json", function(data) {
-                    $("#content").text(JSON.stringify(data));
+                    $("#products").text(JSON.stringify(data));
                 });
             });
         });
