@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="products.css"?>
+<products>
+        <game>
+                <name>Half-Life 3</name>
+                <price>600000.00</price>
+                <description>Pay up, nerds. This'll keep Steam's lights on for another thirty years.</description>
+                <category>action</category>
+                <category>science fiction</category>
+                <category>adventure</category>
+        </game>
+        <game>
+                <name>Portal 3</name>
+                <price>60.00</price>
+                <description>Even writing this sentence just made me pop a blood vessel from joy.</description>
+                <category>puzzle</category>
+                <category>humor</category>
+        </game>
+        <game>
+                <name>Luigi's Eating Experience</name>
+                <price>80.00</price>
+                <description>Switch 3 coming next year, switch 2 is cancelled, NINTENDO OUT BITCHES.</description>
+                <category>cooking</category>
+        </game>
+        <game>
+                <name>Cooking Mama: Cookstar</name>
+                <price>20.00</price>
+                <description>We totally have the rights to use this IP this time just dont ask legal please.</description>
+                <category>cooking</category>
+        </game>
+        <game>
+                <name>Shifted Heart</name>
+                <price>14.99</price>
+                <description>HI GUYS, claire levin here, this is not a joke, this is a game my cousin actually made, currently listed on steam, please check it out and wishlist it.</description>
+                <category>soulslike</category>
+        </game>
+        <game>
+                <name>Star Fetchers</name>
+                <price>00.00</price>
+                <description>The best game ever made, just ask your mom ;)</description>
+                <category>praxis</category>
+                <category>humor</category>
+                <category>lgbt</category>
+        </game>
+        <game>
+                <name>Shenmue 69</name>
+                <price>30.00</price>
+                <description>Dont worry guys the story will actually end in this one we promise for sure just keep buying them.</description>
+                <category>action</category>
+                <category>role-playing</category>
+        </game>
+        <game>
+                <name>Chronic the Hemphog</name>
+                <price>40.00</price>
+                <description>Look, we at Sega may not have figured out how to make a good sonic game yet, but maybe if you get high enough they'll start being funny at least.</description>
+                <category>action</category>
+                <category>soulslike</category>
+        </game>
+</products>
