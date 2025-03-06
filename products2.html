@@ -5,12 +5,17 @@
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 </head>
 <body>
-        <div id="content"></div>
+        <div id="result">
+                <button id="products">Load Products</button>
+        </div>
         <script>
+$(document).ready(function() {
+            $("#products").click(function() {
                 $.get("https://spladder.github.io/cs20project5/products.json", function(data) {
-                        var str = JSON.stringify(data, null, 2);
-                        $('#content').text(str);
+                    $("#content").text(JSON.stringify(data));
                 });
+            });
+        });
         </script>
 </body>
 </html>
