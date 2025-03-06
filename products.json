@@ -1,49 +1,75 @@
-
-    {
-      "name": "Half-Life 3",
-      "price": 600000.00,
-      "description": "Pay up, nerds. This'll keep Steam's lights on for another thirty years.",
-      "category": ["action", "science fiction", "adventure"]
-    },
-    {
-      "name": "Portal 3",
-      "price": 60.00,
-      "description": "Even writing this sentence just made me pop a blood vessel from joy.",
-      "category": ["puzzle", "humor"]
-    },
-    {
-      "name": "Luigi's Eating Experience",
-      "price": 80.00,
-      "description": "Switch 3 coming next year, switch 2 is cancelled, NINTENDO OUT BITCHES.",
-      "category": ["cooking"]
-    },
-    {
-      "name": "Cooking Mama: Cookstar",
-      "price": 20.00,
-      "description": "We totally have the rights to use this IP this time just dont ask legal please.",
-      "category": ["cooking"]
-    },
-    {
-      "name": "Shifted Heart",
-      "price": 14.99,
-      "description": "HI GUYS, Claire Levin here, this is not a joke, this is a game my cousin actually made, currently listed on Steam, please check it out and wishlist it.",
-      "category": ["soulslike"]
-    },
-    {
-      "name": "Star Fetchers",
-      "price": 0.00,
-      "description": "The best game ever made, just ask your mom ;)",
-      "category": ["praxis", "humor", "lgbt"]
-    },
-    {
-      "name": "Shenmue 69",
-      "price": 30.00,
-      "description": "Dont worry guys the story will actually end in this one we promise for sure just keep buying them.",
-      "category": ["action", "role-playing"]
-    },
-    {
-      "name": "Chronic the Hemphog",
-      "price": 40.00,
-      "description": "Look, we at Sega may not have figured out how to make a good sonic game yet, but maybe if you get high enough they'll start being funny at least.",
-      "category": ["action", "soulslike"]
-    }
+{
+    "products": [
+        {
+            "name": "Half-Life 3",
+            "price": 600000,
+            "description": "Pay up, nerds. This'll keep Steam's lights on for another thirty years.",
+            "category": [
+                "action",
+                "science fiction",
+                "adventure"
+            ]
+        },
+        {
+            "name": "Portal 3",
+            "price": 60,
+            "description": "Even writing this sentence just made me pop a blood vessel from joy.",
+            "category": [
+                "puzzle",
+                "humor"
+            ]
+        },
+        {
+            "name": "Luigi's Eating Experience",
+            "price": 80,
+            "description": "Switch 3 coming next year, switch 2 is cancelled, NINTENDO OUT BITCHES.",
+            "category": [
+                "cooking"
+            ]
+        },
+        {
+            "name": "Cooking Mama: Cookstar",
+            "price": 20,
+            "description": "We totally have the rights to use this IP this time just dont ask legal please.",
+            "category": [
+                "cooking"
+            ]
+        },
+        {
+            "name": "Shifted Heart",
+            "price": 14.99,
+            "description": "HI GUYS, Claire Levin here, this is not a joke, this is a game my cousin actually made, currently listed on Steam, please check it out and wishlist it.",
+            "category": [
+                "soulslike"
+            ]
+        },
+        {
+            "name": "Star Fetchers",
+            "price": 0,
+            "description": "The best game ever made, just ask your mom ;)",
+            "category": [
+                "praxis",
+                "humor",
+                "lgbt"
+            ]
+        },
+        {
+            "name": "Shenmue 69",
+            "price": 30,
+            "description": "Dont worry guys the story will actually end in this one we promise for sure just keep buying them.",
+            "category": [
+                "action",
+                "role-playing"
+            ]
+        },
+        {
+            "name": "Chronic the Hemphog",
+            "price": 40,
+            "description": "Look, we at Sega may not have figured out how to make a good sonic game yet, but maybe if you get high enough they'll start being funny at least.",
+            "category": [
+                "action",
+                "soulslike"
+            ]
+        }
+    ]
+}
