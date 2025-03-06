@@ -7,7 +7,7 @@
 <body>
         <div id="content"></div>
         <script>
-                $.get("products.json", function(data) {
+                $.get("https://spladder.github.io/cs20project5/products.json", function(data) {
                         var str = JSON.stringify(data, null, 2);
                         $('#content').text(str);
                 });
