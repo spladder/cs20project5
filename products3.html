@@ -71,12 +71,7 @@
 
                     data.products.forEach(function(product) {
                         if (product.category.includes(selected)) {
-                            str += "<div id='game'>";
                             str += "<h2 id='name'>" + product.name + "</h2>";
-                            str += "<p id='price'> Price: $" + product.price + "</p>";
-                            str += "<p>" + product.description + "</p>";
-                            str += "<p id='category'> Categories: " + product.category.join(", ") + "</p>";
-                            str += "</div>";
                         }
                     });
 
